@@ -61,7 +61,7 @@
   margin-right: 15px;
 }
 
-.nav-lista li span::before{
+.nav-lista li::before{
   content: url('../img/pawprint 1.png');
 }
 
